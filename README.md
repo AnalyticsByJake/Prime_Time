@@ -22,7 +22,7 @@ I. Included Files \
 II. Included Datasets \
 III. Installation \
 IV. Putting the Data to the Test (SQL) \
-V. Dashboard Visualizations (Tableau) \
+V. Dashboard and Discoveries (Tableau) \
 VI. Tools Used \
 VII. Conclusion \
 VIII. Contact Details
@@ -30,8 +30,8 @@ VIII. Contact Details
 
 ## I. Included Files
 
-    • Amazon Dataset - Original (dir amazon_sales_report_cleaned)
-    • Amazon Dataset - Cleaned (dir amazon_sales_report_OG)
+    • Amazon Dataset - Original (amazon_sales_report_cleaned.csv)
+    • Amazon Dataset - Cleaned (amazon_sales_report_OG.csv)
     • Amazon Import SQL Script (amazon_sales_schema_setup.sql)
     • Amazon Schema Diagram (amazon_sales_diagram.pdf)
     • Amazon Data Wrangling (amazon_sales_data_wrangling.sql)
