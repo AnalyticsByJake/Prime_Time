@@ -77,7 +77,7 @@ Following this process, the data was then cleaned and organized. When necessary,
 
 IMAGE 4
 <p align="center">
-  <img src="images/image_4_city_adjust.jpg" width=400/>
+  <img src="images/image_4_city_adjust.jpg" width=600/>
 </p>
 
 
@@ -95,7 +95,7 @@ When the dataset was finally ready to work with, I got to work on extracting the
 
 IMAGE 5
 <p align="center">
-  <img src="images/image_5_uncomment_code.jpg" width=400/>
+  <img src="images/image_5_uncomment_code.jpg" width=600/>
 </p>
 
 
