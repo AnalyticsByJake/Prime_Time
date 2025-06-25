@@ -7,7 +7,7 @@ Amazon isn't just a retailer—it's a data machine. From order fulfillment to sh
 
 IMAGE 1
 <p align="center">
-  <img src="images/image_1_zillow_logo.jpeg" width=300/>
+  <img src="images/image_1_amazon_india.jpeg" width=300/>
 </p>
 
 
@@ -18,7 +18,7 @@ While the dataset itself is merely a generated simulation of Amazon sales data i
 
 IMAGE 2
 <p align="center">
-  <img src="images/image_2_house_analyzer_dash.jpg", width=700/>
+  <img src="images/image_2_num_cust.jpg", width=700/>
 </p>
 
 
@@ -65,7 +65,7 @@ The file amazon_sales_schema_setup is a modifiable SQL code (amazon_sales_schema
 
 IMAGE 3
 <p align="center">
-  <img src="images/image_3_schema_setup.jpg" width=350/>
+  <img src="images/image_3_data_import.jpg" width=350/>
 </p>
 
 
@@ -77,7 +77,7 @@ Following this process, the data was then cleaned and organized. When necessary,
 
 IMAGE 4
 <p align="center">
-  <img src="images/image_4_data_wrangling.jpg" width=400/>
+  <img src="images/image_4_city_adjust.jpg" width=400/>
 </p>
 
 
@@ -116,7 +116,7 @@ My primary concern was being able to compile an SQL query that would break down 
 
 IMAGE 6
 <p align="center">
-  <img src="images/image_6_house_calc.jpg"/>
+  <img src="images/image_6_kpi_table.jpg"/>
 </p>
 
 
@@ -128,7 +128,7 @@ The more concentrated analysis is carried out from here on in the SQL script, wh
 
 IMAGE 7
 <p align="center">
-  <img src="images/image_7_year_avg_price.jpg"/>
+  <img src="images/image_7_rolling_total.jpg"/>
 </p>
 
 
@@ -148,7 +148,7 @@ The first dashboard focuses on "Amazon Sales KPI Metrics," creating a general ov
 
 IMAGE 8
 <p align="center">
-  <img src="images/image_8_top_5_calc.jpg" width=600/>
+  <img src="images/image_8_kpi_db.jpg" width=600/>
 </p>
 
 
@@ -159,7 +159,7 @@ While the KPI dashboard may be quite interesting for general business performanc
 
 IMAGE 9
 <p align="center">
-  <img src="images/image_9_kpi_metrics_db.jpg" width=700/>
+  <img src="images/image_9_canc_succ.jpg" width=350/>
 </p>
 
 
