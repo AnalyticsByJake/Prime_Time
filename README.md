@@ -18,30 +18,30 @@ The data for this project was obtained from [this Kaggle dataset](https://www.ka
 
 ## Table of Contents
 
-I. Included Files \
-II. Included Datasets \
-III. Putting the Pieces Together \
-IV. Putting the Data to the Test (SQL) \
-V. Dashboard and Discoveries (Tableau) \
-VI. Tools Used \
-VII. Conclusion \
-VIII. Contact Details
+- [I. Included Files](#i-included-files)
+- [II. Included Datasets](#ii-included-datasets)
+- [III. Putting the Pieces Together](#iii-putting-the-pieces-together)
+- [IV. Putting the Data to the Test (SQL)](#iv-putting-the-data-to-the-test-sql)
+- [V. Dashboards and Discoveries (Tableau)](#v-dashboards-and-discoveries-tableau)
+- [VI. Tools Used](#vi-tools-used)
+- [VII. Conclusion](#vii-conclusion)
+- [VIII. Contact Info](#viii-contact-info)
 
 
 ## I. Included Files
 
-    • Amazon Dataset - Original (amazon_sales_report_cleaned.csv)
-    • Amazon Dataset - Cleaned (amazon_sales_report_OG.csv)
-    • Amazon Import SQL Script (amazon_sales_schema_setup.sql)
-    • Amazon Schema Diagram (amazon_sales_diagram.pdf)
-    • Amazon Data Wrangling (amazon_sales_data_wrangling.sql)
-    • Amazon Data Analysis Queries (amazon_sales_analysis.sql)
-    • Amazon Dashboards (amazon_sales_tableau_story.twb)
+- Amazon Dataset - Original (amazon_sales_report_cleaned.csv)
+- Amazon Dataset - Cleaned (amazon_sales_report_OG.csv)
+- Amazon Import SQL Script (amazon_sales_schema_setup.sql)
+- Amazon Schema Diagram (amazon_sales_diagram.pdf)
+- Amazon Data Wrangling (amazon_sales_data_wrangling.sql)
+- Amazon Data Analysis Queries (amazon_sales_analysis.sql)
+- Amazon Dashboards (amazon_sales_tableau_story.twb)
 
 
 ## II. Included Datasets
 
-    • amazon_sales_report_cleaned.csv
+- amazon_sales_report_cleaned.csv
 
 The dataset is available in its cleaned as well as original form. 
 
@@ -73,12 +73,12 @@ When the dataset was finally ready to work with, I got to work on extracting the
 
 The main areas of concern are listed as follows:
 
-    • KPI Analysis (general and monthly)
-    • Time Data Analysis
-    • Fulfillment and Shipping Analysis
-    • Category and Product Analysis
-    • Location Data Analysis
-    • Performance Analysis
+- KPI Analysis (general and monthly)
+- Time Data Analysis
+- Fulfillment and Shipping Analysis
+- Category and Product Analysis
+- Location Data Analysis
+- Performance Analysis
 
 My primary concern was being able to compile an SQL query that would break down KPIs into a usable format for business interests. I created two versions of this code, one of which is focused on the overall sales and another which breaks it down into monthly groupings. The calculations for this table included a number of fields: (a) average order value by category, (b) deviation from the overall monthly average order value (as a \%), (c) total monthly revenue by category, (d) total monthly revenue for all categories, (e) proportion of revenue comparative to overall sales, (f) number of pending orders, (g) number of cancelled orders, (h) total number of shipments and (i) shipment success rate by category (not cancelled, pending or returned). 
 
@@ -117,9 +117,9 @@ In the end, I put together two highly targeted and informative dashboards to hel
 
 ## VI. Tools Used
 
-• MySQL Workbench \
-• Excel \
-• Tableau 
+- MySQL Workbench
+- Excel
+- Tableau 
 
 
 ## Conclusion
