@@ -20,7 +20,7 @@ The data for this project was obtained from [this Kaggle dataset](https://www.ka
 
 I. Included Files \
 II. Included Datasets \
-III. Installation \
+III. Putting the Pieces Together \
 IV. Putting the Data to the Test (SQL) \
 V. Dashboard and Discoveries (Tableau) \
 VI. Tools Used \
@@ -46,7 +46,7 @@ VIII. Contact Details
 The dataset is available in its cleaned as well as original form. 
 
 
-## III. How to Build the Database
+## III. Putting the Pieces Together
 
 The file amazon_sales_schema_setup is a modifiable SQL code (amazon_sales_schema_setup.csv) allowing one to import the dataset directly into a SQL database. Throughout this project, I employed MySQL Workbench. 
 
