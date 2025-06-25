@@ -7,7 +7,7 @@ Amazon isn't just a retailer—it's a data machine. From order fulfillment to sh
 
 IMAGE 1
 <p align="center">
-  <img src="images/image_1_amazon_india.jpeg" width=300/>
+  <img src="images/image_1_amazon_india.jpeg" width=500/>
 </p>
 
 
@@ -18,7 +18,7 @@ While the dataset itself is merely a generated simulation of Amazon sales data i
 
 IMAGE 2
 <p align="center">
-  <img src="images/image_2_num_cust.jpg", width=700/>
+  <img src="images/image_2_num_cust.jpg", width=300/>
 </p>
 
 
