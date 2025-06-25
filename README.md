@@ -12,7 +12,7 @@ IMAGE 1
 
 
 
-While the dataset itself is merely a generated simulation, the metrics and dynamics match those found in real-world reports. Using a variety of CTEs, window functions, aggregations, subqueries and joins, I manage to draw out the defining features of the data while also pinpointing the limitations to simulated data. After the analysis, Tableau was used to generate visualizations for the data. 
+While the dataset itself is merely a generated simulation of Amazon sales data in India, the metrics and dynamics match those found in real-world reports. Using a variety of CTEs, window functions, aggregations, subqueries and joins, I manage to draw out the defining features of the data while also pinpointing the limitations to simulated data. After the analysis, Tableau was used to generate visualizations for the data. 
 
 
 
