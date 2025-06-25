@@ -18,7 +18,7 @@ While the dataset itself is merely a generated simulation of Amazon sales data i
 
 IMAGE 2
 <p align="center">
-  <img src="images/image_2_num_cust.jpg", width=300/>
+  <img src="images/image_2_num_cust.jpg", width=450/>
 </p>
 
 
