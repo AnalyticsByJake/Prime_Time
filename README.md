@@ -28,7 +28,7 @@ The data for this project was obtained from [this Kaggle dataset](https://www.ka
 - [VII. Conclusion](#vii-conclusion)
 - [VIII. Contact Info](#viii-contact-info)
 - [IX. Appendix: Sample Code](#ix-appendix-sample-code)
-- 
+  
 
 ## I. Included Files
 
