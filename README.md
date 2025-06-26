@@ -5,13 +5,13 @@ Prime Time: Unboxing Amazon Sales with SQL & Tableau
 Amazon isn't just a retailer—it's a data machine. From order fulfillment to shipping success rates, the company leaves a breadcrumb trail of metrics. In this project, I rolled up my sleeves and dove into a simulated Amazon dataset to uncover the KPIs behind the clicks. Think of it as unpacking Prime, one SQL query at a time.
 
 <p align="center">
-  <img src="images/image_1_amazon_india.jpeg" width=500/>
+  <img src="images/image_1_amazon_india.jpeg" width=600/>
 </p>
 
 While the dataset itself is merely a generated simulation of Amazon sales data in India, the metrics and dynamics match those found in real-world reports. Using a variety of CTEs, window functions, aggregations, subqueries and joins, I manage to draw out the defining features of the data while also pinpointing the limitations to simulated data. After the analysis, Tableau was used to generate visualizations for the data. 
 
 <p align="center">
-  <img src="images/image_2_num_cust.jpg", width=450/>
+  <img src="images/image_2_num_cust.jpg", width=400/>
 </p>
 
 The data for this project was obtained from [this Kaggle dataset](https://www.kaggle.com/datasets/arpit2712/amazonsalesreport) and then cleaned, organized and indexed.
