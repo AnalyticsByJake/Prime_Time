@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 2em;">
+<h1 align="center" style="font-size: 3em;">
 Prime Time: Unboxing Amazon Sales with SQL & Tableau
 </h1>   
 
