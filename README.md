@@ -145,3 +145,9 @@ Though the data itself was simply a generated dataset rather than real-world dat
 
 ## IX. Appendix: Sample Code
 
+<p align="center">
+  <img src="images/image_10_sample_code.jpg" width=800/>
+</p>
+
+
+
