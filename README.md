@@ -132,10 +132,15 @@ Though the data itself was simply a generated dataset rather than real-world dat
 ## VIII. Contact Info
 
 [Linkedin](www.linkedin.com/in/jacob-maze-8a4a0772)
+
 [Personal Website](https://analyticsbyjake.github.io/abj/)
+
 [GitHub](https://github.com/AnalyticsByJake)
+
 [Tableau Public](https://public.tableau.com/app/profile/analyticsbyjake)
+
 [Academia.edu](https://aauni.academia.edu/JacobMaze)
+
 
 
 ## IX. Appendix: Sample Code
