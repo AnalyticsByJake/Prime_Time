@@ -1,5 +1,6 @@
-
-# Prime Time: Unboxing Amazon Sales with SQL & Tableau
+<h1 align="center" style="font-size: 2em;">
+Prime Time: Unboxing Amazon Sales with SQL & Tableau
+</h1>   
 
 Amazon isn't just a retailer—it's a data machine. From order fulfillment to shipping success rates, the company leaves a breadcrumb trail of metrics. In this project, I rolled up my sleeves and dove into a simulated Amazon dataset to uncover the KPIs behind the clicks. Think of it as unpacking Prime, one SQL query at a time.
 
